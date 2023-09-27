@@ -1,4 +1,23 @@
 
+body{
+    color:white;
+}
 .green{
     color:green !important;
+}
+
+.jumbotron {
+    background: url("../images/ba1.jpg") no-repeat center;
+    filter: brightness(100%);
+}
+ ul>li>a{
+
+ }
+
+.texto_blanco{
+    color: white;
+}
+
+.lead{
+    padding-left: 50%;
 }
